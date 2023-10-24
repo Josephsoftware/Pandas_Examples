@@ -1,3 +1,6 @@
+#Below is a demostration of a CSV import, column def for front API, a sub string search, a int search, using numpy and lambda to clear empty indexes and filter, and a CSV return of the results to be returned to Tableau.
+#The below is preped for a MySQL token and deposit to further automate the data life cycle. Using Lambda empty values can be converted to Null deposited into SQL and filter in Tableau.
+
 import pandas as pd
 import numpy as np
 
